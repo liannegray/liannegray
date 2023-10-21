@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/tIxfGHU.jpeg" width="700px"/>
 </p>
 
-<h2 align="center">Hi There <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h2>
+<h2 align="center">Hello there.. <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h2>
 
 I'm a Data Analyst who specialises in visualisation.
 This is the place where I'm blowing the dust off the parts of my brain that figured out how to make browser-based games out of PHP and MySQL in the _00s_
@@ -9,7 +9,7 @@ This is the place where I'm blowing the dust off the parts of my brain that figu
 - 🔭 &nbsp;I’m currently working on  
 - 🌱 &nbsp;I’m currently learning JSON, 
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+- 👨‍💻 &nbsp;Read more about my projects at [liannegray.com](https://liannegray.com)
 
 
 
@@ -21,32 +21,27 @@ This is the place where I'm blowing the dust off the parts of my brain that figu
     <table align="left">
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="icons/python.png" width="65px"/>
+                <img src="python.png" width="65px"/>
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/java.png" width="65px"/>
-                <br /> Java
+                <img src="json.png" width="65px"/>
+                <br /> JSON
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/javascript.png" width="65px"/>
+                <img src="javascript.png" width="65px"/>
                 <br /> Javascript
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/postgresql.png" width="65px"/>
+                <img src="postgresql.png" width="65px"/>
                 <br /> Postgresql
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/python.png" width="65px"/>
+                <img src="python.png" width="65px"/>
                 <br /> Python
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/sass.png" width="65px"/>
-                <br /> Sass
             </td>
         </tr>
     </table>
-    <img src="svg/artificialintelligence.svg" height="225px"/>
 </div>
 
 <br>
