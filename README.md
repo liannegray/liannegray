@@ -3,12 +3,12 @@
 
 <h2 align="center">Hello there.. <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h2>
 
-I'm a Data Analyst who specialises in visualisation.
-This is the place where I'm blowing the dust off the parts of my brain that figured out how to make browser-based games out of PHP and MySQL in the _00s_
+This is the place where I'm working to blow the dust off the parts of my brain that figured out how to make browser-based games using PHP and MySQL in the 00s.
 
 - 🔭 &nbsp;I’m currently working on  
 - 🌱 &nbsp;I’m currently learning JSON, 
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 💬 &nbsp;Ask me about anything related to data visualisation, strategy and analysis
+
 - 👨‍💻 &nbsp;Read more about my projects at [liannegray.com](https://liannegray.com)
 
 
@@ -16,39 +16,38 @@ This is the place where I'm blowing the dust off the parts of my brain that figu
 
 
 <br>
-
 <div align="center">
-    <table align="left">
+    <table align="center">
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="python.png" width="65px"/>
+                <img src="icons/python.png" width="65px"/>
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="json.png" width="65px"/>
+                <img src="icons/json.png" width="65px"/>
                 <br /> JSON
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="javascript.png" width="65px"/>
+                <img src="icons/javascript.png" width="65px"/>
                 <br /> Javascript
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="postgresql.png" width="65px"/>
+                <img src="icons/postgresql.png" width="65px"/>
                 <br /> Postgresql
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="python.png" width="65px"/>
-                <br /> Python
             </td>
         </tr>
     </table>
 </div>
-
 <br>
 
-### **Fun facts About Me:** 
-1. - I can read and speak Japanese and used to live in Fukuoka
-2. - I used to be a professional photographer
-3. - I play the drums
-4. - I own a Shiba Inu named Lupin 
+<p align="center"></p>
+
+<h2 align="center"><img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"> Fun facts About Me: <img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"></a></h2>
+
+- I can read and speak Japanese and used to live in Kumamoto
+- I used to be a professional photographer
+- I play the drums
+- I own a Shiba Inu named Lupin 
+
+<p align="center"></p>
 
