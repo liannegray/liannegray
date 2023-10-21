@@ -5,16 +5,16 @@
 
 This is the place where I'm working to blow the dust off the parts of my brain that figured out how to make browser-based games using PHP and MySQL in the 00s.
 
-- 🔭 &nbsp;I’m currently working on  
-- 🌱 &nbsp;I’m currently learning JSON, 
+- 🔭 &nbsp;I’m currently working on [The Odin Project](https://www.theodinproject.com/)
+- 🌱 &nbsp;I’m currently learning about Machine Learning and AI 
 - 💬 &nbsp;Ask me about anything related to data visualisation, strategy and analysis
 
 - 👨‍💻 &nbsp;Read more about my projects at [liannegray.com](https://liannegray.com)
+<br>
 
 
 
-
-
+<h2 align="center"><img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"> Fun facts About Me: <img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"></a></h2>
 <br>
 <div align="center">
     <table align="center">
