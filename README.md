@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/tIxfGHU.jpeg" width="700px"/>
+<p align="center"><img src="https://i.imgur.com/pDGyDoi.png" width="100%"/>
 </p>
 
 <h2 align="center">Hello there.. <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h2>
@@ -20,19 +20,19 @@ This is the place where I'm working to blow the dust off the parts of my brain t
     <table align="center">
         <tr>
             <td align="center" width="140" height="112.43" border="0">
-                <img src="icons/python.png" width="65px"/>
+                <img src="icons/python.png" height="65px"/>
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43" border="0">
-                <img src="icons/json.png" width="65px"/>
+                <img src="icons/json.png" height="65px"/>
                 <br /> JSON
             </td>
             <td align="center" width="140" height="112.43" border="0">
-                <img src="icons/javascript.png" width="65px"/>
+                <img src="icons/javascript.png" height="65px"/>
                 <br /> Javascript
             </td>
             <td align="center" width="140" height="112.43" border="0">
-                <img src="icons/postgresql.png" width="65px"/>
+                <img src="icons/postgresql.png" height="65px"/>
                 <br /> Postgresql
             </td>
         </tr>
@@ -40,7 +40,7 @@ This is the place where I'm working to blow the dust off the parts of my brain t
 </div>
 <br>
 
-<p align="center"></p>
+<p align="center"><img src="https://imgur.com/gallery/rxsVwLG" width="80%"></p>
 
 <h2 align="center"><img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"> Some facts about me.. <img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"></a></h2>
 
@@ -49,5 +49,9 @@ This is the place where I'm working to blow the dust off the parts of my brain t
 - I play the drums and I'm taking my Grade 2 Exam soon
 - I own a Shiba Inu named Lupin 
 
-<p align="center">![https://imgur.com/a/ovwGc0T](https://imgur.com/a/ovwGc0T)</p>
+<p align="center"><img src="https://i.imgur.com/d11XWcy.png" width="90%"</p>
+
+<h2></h2>
+
+_all artwork created using [midjourney](https://www.midjourney.com/)_
 
