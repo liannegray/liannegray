@@ -21,30 +21,26 @@ This is the place where I'm working to blow the dust off the parts of my brain t
 <div align="center">
     <table align="center">
         <tr width="90%">
-            <td rowspan="4" aligh="center" width="75%" border="0">
+            <td rowspan="4" aligh="center" width="80%" border="0">
                 <img src="https://i.imgur.com/INBliv8.png">
             </td>
             <td rowspan="1" align="center" width="25%" border="0">
             <img src="icons/python.png"/>
-                <br /> Python
             </td>
         </tr>
         <tr>
-            <td align="center" width="20%" width="25%" border="0" >
+            <td align="center" width="20%" width="20%" border="0" >
                 <img src="icons/json.png"/>
-                <br /> JSON
             </td>
         </tr>
         <tr>
-            <td align="center" width="10%" width="25%" border="0">
+            <td align="center" width="10%" width="20%" border="0">
                 <img src="icons/javascript.png"/>
-                <br /> Javascript
             </td>
         </tr>
         <tr>
-            <td align="center" width="10%" width="25%" border="0">
+            <td align="center" width="10%" width="20%" border="0">
                 <img src="icons/postgresql.png"/>
-                <br /> Postgresql
             </td>
         </tr>
     </table>
