@@ -24,22 +24,22 @@ This is the place where I'm working to blow the dust off the parts of my brain t
             <td rowspan="4" aligh="center" width="80%" border="0">
                 <img src="https://i.imgur.com/INBliv8.png">
             </td>
-            <td rowspan="1" align="center" width="25%" border="0">
+            <td rowspan="1" align="center" width="20%" border="0">
             <img src="icons/python.png"/>
             </td>
         </tr>
         <tr>
-            <td align="center" width="20%" width="20%" border="0" >
+            <td align="center" width="20%" border="0" >
                 <img src="icons/json.png"/>
             </td>
         </tr>
         <tr>
-            <td align="center" width="10%" width="20%" border="0">
+            <td align="center" width="20%" border="0">
                 <img src="icons/javascript.png"/>
             </td>
         </tr>
         <tr>
-            <td align="center" width="10%" width="20%" border="0">
+            <td align="center" width="20%" border="0">
                 <img src="icons/postgresql.png"/>
             </td>
         </tr>
