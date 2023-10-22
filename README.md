@@ -49,5 +49,5 @@ This is the place where I'm working to blow the dust off the parts of my brain t
 - I play the drums and I'm taking my Grade 2 Exam soon
 - I own a Shiba Inu named Lupin 
 
-<p align="center">![alt text](https://imgur.com/a/ovwGc0T)</p>
+<p align="center">![https://imgur.com/a/ovwGc0T](https://imgur.com/a/ovwGc0T)</p>
 
