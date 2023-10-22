@@ -44,10 +44,10 @@ This is the place where I'm working to blow the dust off the parts of my brain t
 
 <h2 align="center"><img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"> Some facts about me.. <img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"></a></h2>
 
-- I can read and speak Japanese and used to live in Kumamoto
+- I can read and speak Japanese and I went to Kumamoto University
 - I used to be a professional photographer
-- I play the drums
+- I play the drums and I'm taking my Grade 2 Exam soon
 - I own a Shiba Inu named Lupin 
 
-<p align="center"></p>
+<p align="center">![alt text](https://imgur.com/a/ovwGc0T)</p>
 
