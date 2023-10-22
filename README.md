@@ -14,24 +14,24 @@ This is the place where I'm working to blow the dust off the parts of my brain t
 
 
 
-<h2 align="center"><img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"> Fun facts About Me: <img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"></a></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/LESpNIDaNBUcRIPzng/giphy.gif" width="3%"> Fun facts About Me <img src="https://media.giphy.com/media/LESpNIDaNBUcRIPzng/giphy.gif" width="3%"></a></h2>
 <br>
 <div align="center">
     <table align="center">
         <tr>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="140" height="112.43" border="0">
                 <img src="icons/python.png" width="65px"/>
                 <br /> Python
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="140" height="112.43" border="0">
                 <img src="icons/json.png" width="65px"/>
                 <br /> JSON
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="140" height="112.43" border="0">
                 <img src="icons/javascript.png" width="65px"/>
                 <br /> Javascript
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="140" height="112.43" border="0">
                 <img src="icons/postgresql.png" width="65px"/>
                 <br /> Postgresql
             </td>
@@ -42,7 +42,7 @@ This is the place where I'm working to blow the dust off the parts of my brain t
 
 <p align="center"></p>
 
-<h2 align="center"><img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"> Fun facts About Me: <img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"></a></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"> Facts About Me: <img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"></a></h2>
 
 - I can read and speak Japanese and used to live in Kumamoto
 - I used to be a professional photographer
