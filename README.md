@@ -40,7 +40,8 @@ This is the place where I'm working to blow the dust off the parts of my brain t
 </div>
 <br>
 
-<p align="center"><img src="https://imgur.com/gallery/rxsVwLG" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/tIxfGHU.jpeg" width="90%"></p>
+<br>
 
 <h2 align="center"><img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"> Some facts about me.. <img src="https://media.giphy.com/media/l1J9MfJgqqteZOMiA/giphy.gif" width="3%"></a></h2>
 
